@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="size">
+        <item>Broto</item>
+        <item>Média</item>
+        <item>Grande</item>
+        <item>Trem</item>
+    </string-array>
+
+    <string name="qtd">Quantidade de sabores</string>
+    <string name="frist">Primeiro Sabor</string>
+    <string name="second">Segundo Sabor</string>
+    <string name="pizzaSize">Tamanho da Pizza</string>
+    <string name="btnAdd">Realizar o Pedido</string>
+    <string name="btnSend">Enviar</string>
+    <string name="btnClose">Voltar</string>
+    <string name="btnWhats">Enviar Reclamação</string>
+    <string name="btnReclamacao">Realizar Reclamação</string>
+    <string name="enviarReclamacao">Enviar Reclamação</string>
+    <string name="descricao">Descrição da Reclamação</string>
+
+    <string-array name="flavor">
+        <item>Calabresa</item>
+        <item>Mussarela</item>
+        <item>Quatro Carnes</item>
+        <item>Quatro Queijos</item>
+    </string-array>
+
+</resources>

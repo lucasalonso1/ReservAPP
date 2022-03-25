@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReservAPP</string>
+    <string name="qtd">Amount of flavors</string>
+    <string name="frist">Frist  flavor</string>
+    <string name="second">Second flavor</string>
+    <string name="pizzaSize">Pizza\'s size</string>
+    <string name="btnAdd">Order now</string>
+    <string name="btnSend">Send</string>
+    <string name="btnClose">Back</string>
+    <string name="btnWhats">Send complaint</string>
+    <string name="btnReclamacao">Complaint here</string>
+    <string name="enviarReclamacao">Send complaint</string>
+    <string name="descricao">Complaint text</string>
+    <string-array name="size">
+        <item>Small</item>
+        <item>Standart</item>
+        <item>Big</item>
+        <item>Extra Large</item>
+    </string-array>
+</resources>
